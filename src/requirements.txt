@@ -13,6 +13,7 @@ opentelemetry-instrumentation-fastapi==0.42b0
 opentelemetry-instrumentation-sqlalchemy==0.42b0
 opentelemetry-instrumentation-celery==0.42b0
 setuptools==78.1.1
+protobuf>=5.29.6
 
 # Additional testing dependencies for demos
 pytest==7.4.3
